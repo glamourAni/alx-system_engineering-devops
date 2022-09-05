@@ -6,3 +6,4 @@ Each file shows how to use shell permissions.
 3-new_owner - changes owner of the hello file to the user betty.
 4-empty - creates an empty file called hello.
 5-execute - adds execute permission to the owner of the file hello.
+6-multiple_permissions - adds execute permission to the owner and the group owner, and read permission to the other users, to the file hello.
