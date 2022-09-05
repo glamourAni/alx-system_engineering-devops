@@ -9,3 +9,5 @@ Each file shows how to use shell permissions.
 6-multiple_permissions - adds execute permission to the owner and the group owner, and read permission to the other users, to the file hello.
 7-everybody - adds execution permission to everyone.
 8-James_Bond - sets all permissions to other users only.
+9-John_Doe - sets the mode of the file hello to -rwxr-x-wx.
+10-mirrror_permissions - sets the mode of the file hello the same as olleh’s mode.
