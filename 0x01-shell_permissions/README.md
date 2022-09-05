@@ -8,3 +8,4 @@ Each file shows how to use shell permissions.
 5-execute - adds execute permission to the owner of the file hello.
 6-multiple_permissions - adds execute permission to the owner and the group owner, and read permission to the other users, to the file hello.
 7-everybody - adds execution permission to everyone.
+8-James_Bond - sets all permissions to other users only.
