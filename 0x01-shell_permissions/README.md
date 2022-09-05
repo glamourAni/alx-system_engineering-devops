@@ -5,3 +5,4 @@ Each file shows how to use shell permissions.
 2-groups - prints all the groups the user is in.
 3-new_owner - changes owner of the hello file to the user betty.
 4-empty - creates an empty file called hello.
+5-execute - adds execute permission to the owner of the file hello.
