@@ -2,9 +2,9 @@
 
 0-hello_world - prints “Hello, World”, followed by a new line to the standard output.
 1-confused_smiley - displays a confused smiley.
-<<<<<<< HEAD
-4-lastlines - Displays the last 10 lines of /etc/passwd. Added quick fix.
-=======
+c
+4-lastlines- Displays the last 10 lines of /etc/passwd. Added quick fix.
 2-hellofile - displays the content of /etc/passwd file.
 3-twofiles - displays the content of /etc/passwd and /etc/hosts.
->>>>>>> d48b768cf9e057c45771bd7159b9a25841edb93f
+5-firstlines - Display the first 10 lines of /etc/passwd
+6-third_line - displays the third line of the file lacta
