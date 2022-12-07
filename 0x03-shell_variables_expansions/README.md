@@ -6,3 +6,6 @@
 for a program.
 3-paths : create a script that counts the number of directories in the PATH.
 4-global_variables : create a script that lists environmental variables.
+5-local_variables : create a script that lists all local variabled and environment variables and functions.
+6-create_local_variable : create a script that creates a new local variable.
+7-create_global_variable : create a script that creates a new global variable.
