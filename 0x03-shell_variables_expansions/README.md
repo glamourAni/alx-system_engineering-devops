@@ -1,0 +1,8 @@
+# Shell, init files, variables and expansions
+
+0-alias : create a script that creates an alias
+1-hello-you : create a script that  prints "hello user", where user is the current Linux user
+2-path : add /action to the PATH. /action should be the last directory the shell looks into when looking 
+for a program.
+3-paths : create a script that counts the number of directories in the PATH.
+4-global_variables : create a script that lists environmental variables.
