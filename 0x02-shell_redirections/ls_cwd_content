@@ -1,0 +1,36 @@
+total 132
+drwxr-xr-x. 1 glamour glamour   864 May 15 23:32 .
+drwxr-xr-x. 1 glamour glamour   194 Apr 21 12:03 ..
+-rwxr-xr-x. 1 glamour glamour    32 Apr 21 12:03 0-hello_world
+-rwxr-xr-x. 1 glamour glamour    56 Apr 21 12:03 100-empty_casks
+-rwxr-xr-x. 1 glamour glamour   107 Apr 21 12:03 101-gifs
+-rwxr-xr-x. 1 glamour glamour    38 Apr 21 12:03 102-acrostic
+-rwxr-xr-x. 1 glamour glamour   115 Apr 21 12:03 103-the_biggest_fan
+-rwxr-xr-x. 1 glamour glamour    46 Apr 21 12:03 10-no_more_js
+-rw-r--r--. 1 glamour glamour 12288 Apr 21 12:03 .10-no_more_js.swp
+-rwxr-xr-x. 1 glamour glamour    45 Apr 21 12:03 11-directories
+-rwxr-xr-x. 1 glamour glamour    25 Apr 21 12:03 12-newest_files
+-rwxr-xr-x. 1 glamour glamour    27 Apr 21 12:03 13-unique
+-rwxr-xr-x. 1 glamour glamour    34 Apr 21 12:03 14-findthatword
+-rwxr-xr-x. 1 glamour glamour    36 Apr 21 12:03 15-countthatword
+-rwxr-xr-x. 1 glamour glamour    38 Apr 21 12:03 16-whatsnext
+-rwxr-xr-x. 1 glamour glamour    36 Apr 21 12:03 17-hidethisword
+-rwxr-xr-x. 1 glamour glamour    53 Apr 21 12:03 18-letteronly
+-rwxr-xr-x. 1 glamour glamour    28 Apr 21 12:03 19-AZ
+-rwxr-xr-x. 1 glamour glamour    28 Apr 21 12:03 1-confused_smiley
+-rwxr-xr-x. 1 glamour glamour    30 Apr 21 12:03 20-hiago
+-rwxr-xr-x. 1 glamour glamour    16 Apr 21 12:03 21-reverse
+-rwxr-xr-x. 1 glamour glamour    47 Apr 21 12:03 22-users_and_homes
+-rwxr-xr-x. 1 glamour glamour    28 Apr 21 12:03 2-hellofile
+-rwxr-xr-x. 1 glamour glamour    39 Apr 21 12:03 3-twofiles
+-rwxr-xr-x. 1 glamour glamour    35 Apr 21 12:03 4-lastlines
+-rwxr-xr-x. 1 glamour glamour    35 Apr 21 12:03 5-firstlines
+-rwxr-xr-x. 1 glamour glamour    42 May 15 23:21 6-third_line
+-rwxr-xr-x. 1 glamour glamour    80 Apr 21 12:03 7-file
+-rwxr-xr-x. 1 glamour glamour    36 Apr 21 12:03 8-cwd_state
+-rwxr-xr-x. 1 glamour glamour    37 Apr 21 12:03 9-duplicate_last_line
+-rw-r--r--. 1 glamour glamour    12 Apr 21 12:03 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r--. 1 glamour glamour    16 May 15 23:31 doc.txt
+-rw-r--r--. 1 glamour glamour     0 Apr 21 12:03 iacta
+-rw-r--r--. 1 glamour glamour     0 May 15 23:32 ls_cwd_content
+-rw-r--r--. 1 glamour glamour   489 Apr 21 12:03 README.md
