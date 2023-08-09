@@ -1,2 +1,2 @@
 #!/bin/bash
-paste--| cut -f1
+echo $PATH | tr -s ':' '\n' | wc -l
